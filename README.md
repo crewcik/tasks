@@ -36,7 +36,3 @@ Herhangi bir öneriniz veya katkınız varsa, lütfen bir pull request oluşturu
 
 ## Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
-
-## Kullanım
-
-Bu README dosyasını `README.md` adıyla projenizin kök dizinine kaydedebilirsiniz. Geliştirme sürecinde bu dosyayı güncelleyerek projenin ilerlemesine dair bilgi verebilirsiniz. Başka bir konuda yardımcı olmamı ister misin?
